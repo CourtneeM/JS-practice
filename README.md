@@ -1,1 +1,2 @@
-# JS-practice
+# JavaScript Practice
+Just some JavaScript challenges
